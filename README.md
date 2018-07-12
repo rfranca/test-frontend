@@ -3,7 +3,7 @@
 
 1. Montar um banco de dados utilizando o arquivo CSV (Arquivo: [dados_teste.csv](./dados_teste.csv))
 2. Desenvolver 2 páginas:
-    * Login com usuário, senha e lembrar acesso. 
+    * Login com usuário, senha e lembrar acesso.  [login.jpg](./login.jpg)
     * Dashboard de acordo com o arquivo [dashboard.jpg](./dashboard.jpg)
 
 Ao finalizar crie um repositório e encaminhe no e-mail do responsável da entrevista
