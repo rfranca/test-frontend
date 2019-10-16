@@ -10,10 +10,11 @@ Ao finalizar crie um repositório e encaminhe no e-mail do responsável da entre
 
 **Você pode:**
 
+- Utilizar Vue.js;
 - Utilizar qualquer linguagem de preprocessador css ou css puro;
 - Utilizar um task runner de sua preferência;
 - Utilizar bibliotecas css como compass, bourbon, animatecss ou outras;
-- Utilizar componentes do bower;
+
 
 
 **Esperamos que você:**
